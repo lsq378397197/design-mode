@@ -1,4 +1,4 @@
-package com.example.builder;
+package com.creational.builder;
 
 /**
  * 建造者模式，可以使用lombok插件简化代码

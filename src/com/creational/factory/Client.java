@@ -1,4 +1,4 @@
-package com.example.factory;
+package com.creational.factory;
 
 /**
  * 客户端

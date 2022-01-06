@@ -1,4 +1,4 @@
-package com.example;
+package com.creational;
 
 public class Main {
 

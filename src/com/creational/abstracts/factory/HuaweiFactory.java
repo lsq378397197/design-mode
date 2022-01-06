@@ -1,4 +1,4 @@
-package com.example.abstracts.factory;
+package com.creational.abstracts.factory;
 
 /**
  * 华为工厂
