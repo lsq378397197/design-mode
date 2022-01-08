@@ -8,6 +8,10 @@ package com.structural.bridging;
  */
 public class Client {
     public static void main(String[] args) {
-
+        Computer computer = new Laptop(new DellBrand());
+        computer.info();
+        System.out.println("================================");
+        Computer hpDesktop = new Desktop(new HpBrand());
+        hpDesktop.info();
     }
 }

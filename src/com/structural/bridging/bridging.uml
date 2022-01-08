@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.structural.bridging</OriginalElement>
+  <nodes>
+    <node x="93.5" y="0.0">com.structural.bridging.Computer</node>
+    <node x="83.5" y="302.0">com.structural.bridging.Brand</node>
+    <node x="359.0" y="302.0">com.structural.bridging.Client</node>
+    <node x="0.0" y="415.0">com.structural.bridging.HpBrand</node>
+    <node x="0.0" y="167.0">com.structural.bridging.Desktop</node>
+    <node x="167.0" y="415.0">com.structural.bridging.DellBrand</node>
+    <node x="199.0" y="167.0">com.structural.bridging.Laptop</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.structural.bridging.HpBrand" target="com.structural.bridging.Brand">
+      <point x="0.0" y="-31.5" />
+      <point x="73.5" y="390.0" />
+      <point x="120.25" y="390.0" />
+      <point x="-36.75" y="31.5" />
+    </edge>
+    <edge source="com.structural.bridging.DellBrand" target="com.structural.bridging.Brand">
+      <point x="0.0" y="-31.5" />
+      <point x="240.5" y="390.0" />
+      <point x="193.75" y="390.0" />
+      <point x="36.75" y="31.5" />
+    </edge>
+    <edge source="com.structural.bridging.Laptop" target="com.structural.bridging.Computer">
+      <point x="0.0" y="-45.0" />
+      <point x="284.5" y="142.0" />
+      <point x="233.75" y="142.0" />
+      <point x="46.75" y="58.5" />
+    </edge>
+    <edge source="com.structural.bridging.Desktop" target="com.structural.bridging.Computer">
+      <point x="0.0" y="-45.0" />
+      <point x="89.5" y="142.0" />
+      <point x="140.25" y="142.0" />
+      <point x="-46.75" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="285.0" y="239.0" />
+  <SelectedNodes>
+    <node>com.structural.bridging.Computer</node>
+    <node>com.structural.bridging.Brand</node>
+    <node>com.structural.bridging.Client</node>
+    <node>com.structural.bridging.HpBrand</node>
+    <node>com.structural.bridging.Desktop</node>
+    <node>com.structural.bridging.DellBrand</node>
+    <node>com.structural.bridging.Laptop</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
