@@ -3,8 +3,8 @@
   <ID>JAVA</ID>
   <OriginalElement>com.structural.bridging</OriginalElement>
   <nodes>
-    <node x="93.5" y="0.0">com.structural.bridging.Computer</node>
     <node x="83.5" y="302.0">com.structural.bridging.Brand</node>
+    <node x="93.5" y="0.0">com.structural.bridging.Computer</node>
     <node x="359.0" y="302.0">com.structural.bridging.Client</node>
     <node x="0.0" y="415.0">com.structural.bridging.HpBrand</node>
     <node x="0.0" y="167.0">com.structural.bridging.Desktop</node>
@@ -40,8 +40,8 @@
   </edges>
   <settings layout="Hierarchic Group" zoom="1.0" x="285.0" y="239.0" />
   <SelectedNodes>
-    <node>com.structural.bridging.Computer</node>
     <node>com.structural.bridging.Brand</node>
+    <node>com.structural.bridging.Computer</node>
     <node>com.structural.bridging.Client</node>
     <node>com.structural.bridging.HpBrand</node>
     <node>com.structural.bridging.Desktop</node>
